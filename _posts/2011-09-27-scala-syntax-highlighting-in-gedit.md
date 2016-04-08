@@ -11,6 +11,7 @@ dsq_thread_id:
 categories:
   - Java and JVM
   - Ubuntu
+comments: true
 ---
 > Update: A small typo, an unnecessary &#8220;<&#8221; tag before xmlns in scala-mime.xml has been corrected. Thanks @win for finding the error. See the comments below for additional references.
 
@@ -21,12 +22,19 @@ The default text editor on Ubuntu, or for that matter any Gnome powered desktop,
   3. Create a file named **scala-mime.xml** at **/usr/share/mime/packages/** using <pre class="wp-code-highlight prettyprint">sudo touch /usr/share/mime/packages/scala-mime.xml</pre>
 
   4. Add the following contents to **scala-mime.xml**: <pre class="wp-code-highlight prettyprint">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+
 &lt;mime-info
+
  xmlns=&#039;http://www.freedesktop.org/standards/shared-mime-info&#039;&gt;
+
 &lt;mime-type type="text/x-scala"&gt;
+
 &lt;comment&gt;Scala programming language&lt;/comment&gt;
+
 &lt;glob pattern="*.scala"/&gt;
+
 &lt;/mime-type&gt;
+
 &lt;/mime-info&gt;</pre>
 
   5. Run <pre class="wp-code-highlight prettyprint">sudo update-mime-database /usr/share/mime</pre>

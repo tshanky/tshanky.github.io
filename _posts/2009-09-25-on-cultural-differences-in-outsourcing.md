@@ -2,6 +2,7 @@
 id: 414
 title: On Cultural Differences in Outsourcing
 date: 2009-09-25T20:41:41+00:00
+comments: true
 author: tshanky
 layout: post
 guid: http://shanky.org/?p=414

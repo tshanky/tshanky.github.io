@@ -2,6 +2,7 @@
 id: 879
 title: 'Ash Maurya&#8217;s Running Lean &#8212; go read it now!'
 date: 2012-11-30T20:52:35+00:00
+comments: true
 author: tshanky
 layout: post
 guid: http://shanky.org/?p=879

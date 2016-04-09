@@ -2,6 +2,7 @@
 id: 481
 title: Come to Flash and the City 2010 in New York, NY
 date: 2010-05-01T20:21:56+00:00
+comments: true
 author: tshanky
 layout: post
 guid: http://shanky.org/?p=481

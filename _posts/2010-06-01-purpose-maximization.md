@@ -2,6 +2,7 @@
 id: 488
 title: Purpose Maximization
 date: 2010-06-01T16:47:26+00:00
+comments: true
 author: tshanky
 layout: post
 guid: http://shanky.org/?p=488

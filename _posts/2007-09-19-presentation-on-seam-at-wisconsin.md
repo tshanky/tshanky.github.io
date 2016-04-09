@@ -2,6 +2,7 @@
 id: 8
 title: Presentation on Seam at Wisconsin
 date: 2007-09-19T05:22:03+00:00
+comments: true
 author: tshanky
 layout: post
 guid: http://shanky.org/2007/09/19/presentation-on-seam-at-wisconsin/

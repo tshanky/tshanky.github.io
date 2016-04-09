@@ -2,6 +2,7 @@
 id: 163
 title: Speaking at Flex Camp Chicago 2009
 date: 2009-01-20T00:57:06+00:00
+comments: true
 author: tshanky
 layout: post
 guid: http://shanky.org/?p=163

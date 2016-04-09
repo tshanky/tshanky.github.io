@@ -2,6 +2,7 @@
 id: 68
 title: Insane Advertisement
 date: 2008-10-07T00:36:25+00:00
+comments: true
 author: tshanky
 layout: post
 guid: http://shanky.org/?p=68

@@ -2,6 +2,7 @@
 id: 698
 title: 'My new book: Professional NoSQL (Wiley, 2011)'
 date: 2011-09-19T20:46:54+00:00
+comments: true
 author: tshanky
 layout: post
 guid: http://shanky.org/?p=698

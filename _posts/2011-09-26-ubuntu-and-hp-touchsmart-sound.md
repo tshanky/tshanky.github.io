@@ -2,6 +2,7 @@
 id: 707
 title: Ubuntu and HP TouchSmart Sound
 date: 2011-09-26T16:04:01+00:00
+comments: true
 author: tshanky
 layout: post
 guid: http://shanky.org/?p=707

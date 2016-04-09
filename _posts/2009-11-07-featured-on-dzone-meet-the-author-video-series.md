@@ -2,6 +2,7 @@
 id: 441
 title: 'Featured on DZone &#8220;Meet the Author&#8221; Video Series'
 date: 2009-11-07T18:57:26+00:00
+comments: true
 author: tshanky
 layout: post
 guid: http://shanky.org/?p=441

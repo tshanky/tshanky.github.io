@@ -2,6 +2,7 @@
 id: 452
 title: Build4Flash @ StackExchange
 date: 2009-11-19T16:49:33+00:00
+comments: true
 author: tshanky
 layout: post
 guid: http://shanky.org/?p=452

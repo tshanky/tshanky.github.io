@@ -2,6 +2,7 @@
 id: 149
 title: Flex or Flash?
 date: 2008-12-10T17:52:09+00:00
+comments: true
 author: tshanky
 layout: post
 guid: http://shanky.org/?p=149

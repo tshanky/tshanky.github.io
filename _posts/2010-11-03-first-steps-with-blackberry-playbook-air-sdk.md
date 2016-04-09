@@ -2,6 +2,7 @@
 id: 524
 title: First Steps with BlackBerry PlayBook AIR SDK
 date: 2010-11-03T15:05:38+00:00
+comments: true
 author: tshanky
 layout: post
 guid: http://shanky.org/?p=524

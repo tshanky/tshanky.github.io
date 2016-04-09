@@ -2,6 +2,7 @@
 id: 87
 title: Speaking at SD Best Practices 2008
 date: 2008-10-21T18:14:09+00:00
+comments: true
 author: tshanky
 layout: post
 guid: http://shanky.org/?p=87

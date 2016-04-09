@@ -2,6 +2,7 @@
 id: 24
 title: SWF is Searchable
 date: 2008-07-01T14:15:05+00:00
+comments: true
 author: tshanky
 layout: post
 guid: http://shanky.org/2008/07/01/swf-is-searchable/

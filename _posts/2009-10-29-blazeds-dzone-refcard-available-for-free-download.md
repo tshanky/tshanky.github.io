@@ -2,6 +2,7 @@
 id: 430
 title: BlazeDS DZone RefCard Available for Free Download
 date: 2009-10-29T18:31:05+00:00
+comments: true
 author: tshanky
 layout: post
 guid: http://shanky.org/?p=430

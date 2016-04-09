@@ -2,6 +2,7 @@
 id: 868
 title: Getting Started With Node
 date: 2012-07-04T23:28:49+00:00
+comments: true
 author: tshanky
 layout: post
 guid: http://shanky.org/?p=868

@@ -2,6 +2,7 @@
 id: 128
 title: How Was Adobe MAX 2008 San Francisco?
 date: 2008-11-25T17:37:46+00:00
+comments: true
 author: tshanky
 layout: post
 guid: http://shanky.org/?p=128

@@ -2,6 +2,7 @@
 id: 171
 title: Speaking at SD West 2009
 date: 2009-01-27T04:44:09+00:00
+comments: true
 author: tshanky
 layout: post
 guid: http://shanky.org/?p=171

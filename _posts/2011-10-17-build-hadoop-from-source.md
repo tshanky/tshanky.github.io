@@ -2,7 +2,6 @@
 id: 775
 title: Build Hadoop from Source
 date: 2011-10-17T23:46:42+00:00
-comments: true
 author: tshanky
 layout: post
 guid: http://shanky.org/?p=775

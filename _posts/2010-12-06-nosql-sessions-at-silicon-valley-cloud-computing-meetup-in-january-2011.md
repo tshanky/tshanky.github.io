@@ -2,7 +2,6 @@
 id: 599
 title: NoSQL Sessions at Silicon Valley Cloud Computing Meetup in January 2011
 date: 2010-12-06T15:27:02+00:00
-comments: true
 author: tshanky
 layout: post
 guid: http://shanky.org/?p=599

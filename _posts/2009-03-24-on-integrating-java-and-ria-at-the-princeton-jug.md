@@ -2,7 +2,6 @@
 id: 255
 title: On Integrating Java and RIA at the Princeton JUG
 date: 2009-03-24T19:29:40+00:00
-comments: true
 author: tshanky
 layout: post
 guid: http://shanky.org/?p=255

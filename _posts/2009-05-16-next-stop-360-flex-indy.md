@@ -2,7 +2,6 @@
 id: 324
 title: Next Stop 360 Flex Indy
 date: 2009-05-16T02:07:08+00:00
-comments: true
 author: tshanky
 layout: post
 guid: http://shanky.org/?p=324

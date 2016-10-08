@@ -2,7 +2,6 @@
 id: 457
 title: A new year, a new promise!
 date: 2010-01-07T21:45:08+00:00
-comments: true
 author: tshanky
 layout: post
 guid: http://shanky.org/?p=457

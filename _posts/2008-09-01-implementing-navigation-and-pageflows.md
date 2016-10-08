@@ -2,7 +2,6 @@
 id: 23
 title: Implementing Navigation and Pageflows with Seam
 date: 2008-09-01T07:57:13+00:00
-comments: true
 author: tshanky
 layout: post
 guid: http://shanky.org/2008/09/01/implementing-navigation-and-pageflows/

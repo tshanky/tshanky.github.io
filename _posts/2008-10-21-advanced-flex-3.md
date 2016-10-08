@@ -2,7 +2,6 @@
 id: 77
 title: Advanced Flex 3
 date: 2008-10-21T14:19:37+00:00
-comments: true
 author: tshanky
 layout: post
 guid: http://shanky.org/?p=77

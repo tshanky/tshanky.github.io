@@ -2,7 +2,6 @@
 id: 93
 title: My Positon on the JCP and the JCP EC
 date: 2008-11-13T17:23:41+00:00
-comments: true
 author: tshanky
 layout: post
 guid: http://shanky.org/?p=93

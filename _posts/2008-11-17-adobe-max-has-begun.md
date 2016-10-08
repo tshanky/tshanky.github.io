@@ -2,7 +2,6 @@
 id: 116
 title: Adobe MAX Has Begun!
 date: 2008-11-17T18:33:45+00:00
-comments: true
 author: tshanky
 layout: post
 guid: http://shanky.org/?p=116

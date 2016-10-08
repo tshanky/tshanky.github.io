@@ -2,7 +2,6 @@
 id: 276
 title: Speaking on Scala Actors at NY Scala Enthusiasts
 date: 2009-03-30T20:26:11+00:00
-comments: true
 author: tshanky
 layout: post
 guid: http://shanky.org/?p=276

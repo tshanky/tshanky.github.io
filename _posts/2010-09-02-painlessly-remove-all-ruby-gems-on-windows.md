@@ -2,7 +2,6 @@
 id: 506
 title: Painlessly Remove All Ruby Gems on Windows
 date: 2010-09-02T01:12:14+00:00
-comments: true
 author: tshanky
 layout: post
 guid: http://shanky.org/?p=506

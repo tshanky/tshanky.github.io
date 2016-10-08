@@ -2,7 +2,6 @@
 id: 302
 title: Rich Finance Widgets
 date: 2009-05-02T01:28:43+00:00
-comments: true
 author: tshanky
 layout: post
 guid: http://shanky.org/?p=302

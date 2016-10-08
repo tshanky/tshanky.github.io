@@ -2,7 +2,6 @@
 id: 11
 title: Speaking at Flex Camp Chicago
 date: 2008-01-18T04:23:07+00:00
-comments: true
 author: tshanky
 layout: post
 guid: http://shanky.org/2008/01/18/speaking-at-flex-camp-chicago/

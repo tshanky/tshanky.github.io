@@ -2,7 +2,6 @@
 id: 60
 title: Rediscovering Gandhi
 date: 2008-10-03T04:06:08+00:00
-comments: true
 author: tshanky
 layout: post
 guid: http://shanky.org/?p=60

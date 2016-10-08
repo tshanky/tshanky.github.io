@@ -2,7 +2,6 @@
 id: 298
 title: High Performance Flex Applications
 date: 2009-04-13T22:19:47+00:00
-comments: true
 author: tshanky
 layout: post
 guid: http://shanky.org/?p=298

@@ -2,7 +2,6 @@
 id: 205
 title: Flex Architecture and Design Patterns
 date: 2009-02-25T19:15:37+00:00
-comments: true
 author: tshanky
 layout: post
 guid: http://shanky.org/?p=205

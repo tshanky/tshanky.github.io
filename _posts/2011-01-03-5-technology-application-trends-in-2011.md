@@ -2,7 +2,6 @@
 id: 631
 title: 5 Technology Application Trends in 2011!
 date: 2011-01-03T22:14:03+00:00
-comments: true
 author: tshanky
 layout: post
 guid: http://shanky.org/?p=631

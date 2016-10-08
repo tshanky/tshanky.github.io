@@ -2,7 +2,6 @@
 id: 467
 title: 'Speaking at 360 Flex San Jose &#8212; March 7-10, 2010'
 date: 2010-02-09T13:43:38+00:00
-comments: true
 author: tshanky
 layout: post
 guid: http://shanky.org/?p=467

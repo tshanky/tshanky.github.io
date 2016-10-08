@@ -2,7 +2,6 @@
 id: 9
 title: Speaking at AJAXWorld
 date: 2007-09-19T05:27:21+00:00
-comments: true
 author: tshanky
 layout: post
 guid: http://shanky.org/2007/09/19/speaking-at-ajaxworld/

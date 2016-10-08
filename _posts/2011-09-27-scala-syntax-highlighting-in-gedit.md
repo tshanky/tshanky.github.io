@@ -10,7 +10,7 @@ dsq_thread_id:
 categories:
   - Java and JVM
   - Ubuntu
-comments: true
+
 ---
 > Update: A small typo, an unnecessary &#8220;<&#8221; tag before xmlns in scala-mime.xml has been corrected. Thanks @win for finding the error. See the comments below for additional references.
 

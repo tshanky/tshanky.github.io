@@ -3,7 +3,6 @@ id: 436
 title: Speaking at NFJS Northern Virginia Software Symposium November 6-8, 2009
 date: 2009-11-06T20:03:02+00:00
 author: tshanky
-layout: post
 guid: http://shanky.org/?p=436
 permalink: /2009/11/06/speaking-at-nfjs-northern-virginia-software-symposium-november-6-8-2009/
 categories:

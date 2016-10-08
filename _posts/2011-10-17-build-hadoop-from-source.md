@@ -3,7 +3,6 @@ id: 775
 title: Build Hadoop from Source
 date: 2011-10-17T23:46:42+00:00
 author: tshanky
-layout: post
 guid: http://shanky.org/?p=775
 permalink: /2011/10/17/build-hadoop-from-source/
 dsq_thread_id:

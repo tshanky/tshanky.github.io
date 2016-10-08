@@ -3,7 +3,6 @@ id: 60
 title: Rediscovering Gandhi
 date: 2008-10-03T04:06:08+00:00
 author: tshanky
-layout: post
 guid: http://shanky.org/?p=60
 permalink: /2008/10/03/rediscovering-gandhi/
 categories:

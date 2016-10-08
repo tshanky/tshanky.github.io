@@ -3,7 +3,6 @@ id: 25
 title: Flex HTTPService, Browser Cache and IE
 date: 2008-08-02T11:24:03+00:00
 author: tshanky
-layout: post
 guid: http://shanky.org/2008/08/02/flex-httpservice-browser-cache-and-ie/
 permalink: /2008/08/02/flex-httpservice-browser-cache-and-ie/
 categories:

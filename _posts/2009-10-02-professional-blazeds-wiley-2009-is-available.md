@@ -3,7 +3,6 @@ id: 418
 title: Professional BlazeDS (Wiley/Wrox 2009) is Available
 date: 2009-10-02T17:05:14+00:00
 author: tshanky
-layout: post
 guid: http://shanky.org/?p=418
 permalink: /2009/10/02/professional-blazeds-wiley-2009-is-available/
 categories:

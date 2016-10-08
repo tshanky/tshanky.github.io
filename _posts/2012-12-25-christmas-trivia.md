@@ -3,7 +3,6 @@ id: 979
 title: Christmas Trivia
 date: 2012-12-25T18:17:37+00:00
 author: tshanky
-layout: post
 guid: http://shanky.org/?p=979
 permalink: /2012/12/25/christmas-trivia/
 categories:

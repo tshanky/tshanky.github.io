@@ -3,7 +3,6 @@ id: 18
 title: Adobe Developer Week 2008
 date: 2008-03-27T02:12:13+00:00
 author: tshanky
-layout: post
 guid: http://shanky.org/2008/03/27/adobe-developer-week-2008/
 permalink: /2008/03/27/adobe-developer-week-2008/
 categories:

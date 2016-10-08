@@ -3,7 +3,6 @@ id: 441
 title: 'Featured on DZone &#8220;Meet the Author&#8221; Video Series'
 date: 2009-11-07T18:57:26+00:00
 author: tshanky
-layout: post
 guid: http://shanky.org/?p=441
 permalink: /2009/11/07/featured-on-dzone-meet-the-author-video-series/
 categories:

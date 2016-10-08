@@ -3,7 +3,6 @@ id: 26
 title: Cakes and Geeks
 date: 2008-09-21T16:19:24+00:00
 author: tshanky
-layout: post
 guid: http://shanky.org/2008/09/21/cakes-and-geeks/
 permalink: /2008/09/21/cakes-and-geeks/
 categories:

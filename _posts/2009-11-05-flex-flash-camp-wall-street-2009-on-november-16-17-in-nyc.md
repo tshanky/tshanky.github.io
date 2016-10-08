@@ -3,7 +3,6 @@ id: 433
 title: Flex (Flash) Camp Wall Street 2009 on November 16-17 in NYC
 date: 2009-11-05T17:19:38+00:00
 author: tshanky
-layout: post
 guid: http://shanky.org/?p=433
 permalink: /2009/11/05/flex-flash-camp-wall-street-2009-on-november-16-17-in-nyc/
 categories:

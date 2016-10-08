@@ -3,7 +3,6 @@ id: 868
 title: Getting Started With Node
 date: 2012-07-04T23:28:49+00:00
 author: tshanky
-layout: post
 guid: http://shanky.org/?p=868
 permalink: /2012/07/04/getting-started-with-node/
 categories:

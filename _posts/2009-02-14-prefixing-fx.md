@@ -3,7 +3,6 @@ id: 177
 title: Prefixing Fx
 date: 2009-02-14T07:26:31+00:00
 author: tshanky
-layout: post
 guid: http://shanky.org/?p=177
 permalink: /2009/02/14/prefixing-fx/
 categories:

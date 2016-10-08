@@ -3,7 +3,6 @@ id: 124
 title: Friends from Farata at MAX
 date: 2008-11-25T19:05:12+00:00
 author: tshanky
-layout: post
 guid: http://shanky.org/?p=124
 permalink: /2008/11/25/friends-from-farata-at-max/
 categories:

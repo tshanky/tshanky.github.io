@@ -3,7 +3,6 @@ id: 416
 title: Flex and Spring JMS
 date: 2009-09-28T15:05:20+00:00
 author: tshanky
-layout: post
 guid: http://shanky.org/?p=416
 permalink: /2009/09/28/flex-and-spring-jms/
 categories:

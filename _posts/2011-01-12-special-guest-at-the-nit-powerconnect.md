@@ -3,7 +3,6 @@ id: 641
 title: Special Guest at the NIT PowerConnect
 date: 2011-01-12T11:13:09+00:00
 author: tshanky
-layout: post
 guid: http://shanky.org/?p=641
 permalink: /2011/01/12/special-guest-at-the-nit-powerconnect/
 categories:

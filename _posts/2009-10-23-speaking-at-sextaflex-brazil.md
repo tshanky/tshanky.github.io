@@ -3,7 +3,6 @@ id: 426
 title: Speaking at SextaFlex Brazil
 date: 2009-10-23T03:45:31+00:00
 author: tshanky
-layout: post
 guid: http://shanky.org/?p=426
 permalink: /2009/10/23/speaking-at-sextaflex-brazil/
 categories:

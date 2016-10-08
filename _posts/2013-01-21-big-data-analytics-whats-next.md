@@ -3,7 +3,6 @@ id: 1034
 title: 'Big Data Analytics : What&#8217;s Next?'
 date: 2013-01-21T16:54:04+00:00
 author: tshanky
-layout: post
 guid: http://shanky.org/?p=1034
 permalink: /2013/01/21/big-data-analytics-whats-next/
 dsq_thread_id:

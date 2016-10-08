@@ -3,7 +3,6 @@ id: 298
 title: High Performance Flex Applications
 date: 2009-04-13T22:19:47+00:00
 author: tshanky
-layout: post
 guid: http://shanky.org/?p=298
 permalink: /2009/04/13/high-performance-flex-applications/
 categories:

@@ -3,7 +3,6 @@ id: 455
 title: 'Next Stop: NFJS Rocky Mountain Software Symposium'
 date: 2009-11-20T15:55:46+00:00
 author: tshanky
-layout: post
 guid: http://shanky.org/?p=455
 permalink: /2009/11/20/next-stop-nfjs-rocky-mountain-software-symposium/
 categories:

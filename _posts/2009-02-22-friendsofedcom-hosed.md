@@ -3,7 +3,6 @@ id: 182
 title: friendsofed.com Hosed!
 date: 2009-02-22T04:30:59+00:00
 author: tshanky
-layout: post
 guid: http://shanky.org/?p=182
 permalink: /2009/02/22/friendsofedcom-hosed/
 categories:

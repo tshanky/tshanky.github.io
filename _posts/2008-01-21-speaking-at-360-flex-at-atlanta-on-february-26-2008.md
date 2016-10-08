@@ -3,7 +3,6 @@ id: 15
 title: Speaking at 360 Flex at Atlanta on February 26, 2008
 date: 2008-01-21T21:16:44+00:00
 author: tshanky
-layout: post
 guid: http://shanky.org/2008/01/21/speaking-at-360-flex-at-atlanta-on-february-26-2008/
 permalink: /2008/01/21/speaking-at-360-flex-at-atlanta-on-february-26-2008/
 categories:

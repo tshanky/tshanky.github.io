@@ -3,7 +3,6 @@ id: 942
 title: Geolocation in MongoDB at San Francisco MonogoDB User Group
 date: 2012-11-30T22:24:02+00:00
 author: tshanky
-layout: post
 guid: http://shanky.org/?p=942
 permalink: /2012/11/30/geolocation-in-mongodb-at-san-francisco-monogodb-user-group/
 categories:

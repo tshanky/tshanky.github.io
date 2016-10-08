@@ -3,7 +3,6 @@ id: 994
 title: Geolocation in MongoDB at the Silicon Valley MongoDB User Group
 date: 2013-01-16T09:41:23+00:00
 author: tshanky
-layout: post
 guid: http://shanky.org/?p=994
 permalink: /2013/01/16/geolocation-in-mongodb-at-the-silicon-valley-mongodb-user-group/
 categories:

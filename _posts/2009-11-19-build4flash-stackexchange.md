@@ -3,7 +3,6 @@ id: 452
 title: Build4Flash @ StackExchange
 date: 2009-11-19T16:49:33+00:00
 author: tshanky
-layout: post
 guid: http://shanky.org/?p=452
 permalink: /2009/11/19/build4flash-stackexchange/
 categories:

@@ -3,7 +3,6 @@ id: 205
 title: Flex Architecture and Design Patterns
 date: 2009-02-25T19:15:37+00:00
 author: tshanky
-layout: post
 guid: http://shanky.org/?p=205
 permalink: /2009/02/25/flex-architecture-and-design-patterns/
 dsq_thread_id:

@@ -3,7 +3,6 @@ id: 68
 title: Insane Advertisement
 date: 2008-10-07T00:36:25+00:00
 author: tshanky
-layout: post
 guid: http://shanky.org/?p=68
 permalink: /2008/10/07/insane-advertisement-adobe-shows-gender-bias/
 categories:

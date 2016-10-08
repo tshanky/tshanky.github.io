@@ -3,7 +3,6 @@ id: 97
 title: Win a Copy of Advanced Flex 3 at MAX
 date: 2008-11-16T15:01:06+00:00
 author: tshanky
-layout: post
 guid: http://shanky.org/?p=97
 permalink: /2008/11/16/win-a-copy-of-advanced-flex-3-at-max/
 categories:

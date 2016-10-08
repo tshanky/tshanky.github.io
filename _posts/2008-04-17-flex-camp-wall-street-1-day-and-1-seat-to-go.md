@@ -3,7 +3,6 @@ id: 22
 title: 'Flex Camp Wall Street: 1 day and 1 seat to go!'
 date: 2008-04-17T14:35:38+00:00
 author: tshanky
-layout: post
 guid: http://shanky.org/2008/04/17/flex-camp-wall-street-1-day-and-1-seat-to-go/
 permalink: /2008/04/17/flex-camp-wall-street-1-day-and-1-seat-to-go/
 categories:

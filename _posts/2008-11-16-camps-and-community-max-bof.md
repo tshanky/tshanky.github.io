@@ -3,7 +3,6 @@ id: 106
 title: Camps and Community (MAX BOF)
 date: 2008-11-16T19:20:57+00:00
 author: tshanky
-layout: post
 guid: http://shanky.org/?p=106
 permalink: /2008/11/16/camps-and-community-max-bof/
 categories:

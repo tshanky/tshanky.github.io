@@ -3,7 +3,6 @@ id: 21
 title: 'Adobe Developer Week 2008 : Flex and Java &#8212; Tying the knot!'
 date: 2008-03-27T03:20:08+00:00
 author: tshanky
-layout: post
 guid: http://shanky.org/2008/03/27/adobe-developer-week-2008-flex-and-java-tying-the-knot/
 permalink: /2008/03/27/adobe-developer-week-2008-flex-and-java-tying-the-knot/
 categories:

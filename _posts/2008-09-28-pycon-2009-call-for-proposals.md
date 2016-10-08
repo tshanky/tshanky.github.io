@@ -3,7 +3,6 @@ id: 48
 title: PyCon 2009 Call For Proposals
 date: 2008-09-28T23:29:55+00:00
 author: tshanky
-layout: post
 guid: http://shanky.org/?p=48
 permalink: /2008/09/28/pycon-2009-call-for-proposals/
 categories:

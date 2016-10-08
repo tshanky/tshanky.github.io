@@ -3,7 +3,6 @@ id: 6
 title: Presentation on Seam at Chicago
 date: 2007-07-09T16:46:10+00:00
 author: tshanky
-layout: post
 guid: http://shanky.org/?p=6
 permalink: /2007/07/09/presentation-on-seam-at-chicago/
 categories:

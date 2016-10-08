@@ -3,7 +3,6 @@ id: 448
 title: Flex (Flash) Camp Wall Street Starts Tomorrow
 date: 2009-11-16T04:39:24+00:00
 author: tshanky
-layout: post
 guid: http://shanky.org/?p=448
 permalink: /2009/11/16/flex-flash-camp-wall-street-starts-tomorrow/
 categories:

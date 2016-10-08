@@ -3,7 +3,6 @@ id: 457
 title: A new year, a new promise!
 date: 2010-01-07T21:45:08+00:00
 author: tshanky
-layout: post
 guid: http://shanky.org/?p=457
 permalink: /2010/01/07/a-new-year-a-new-promise/
 categories:

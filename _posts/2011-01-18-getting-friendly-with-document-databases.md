@@ -3,7 +3,6 @@ id: 647
 title: Getting Friendly With Document Databases
 date: 2011-01-18T16:51:37+00:00
 author: tshanky
-layout: post
 guid: http://shanky.org/?p=647
 permalink: /2011/01/18/getting-friendly-with-document-databases/
 categories:

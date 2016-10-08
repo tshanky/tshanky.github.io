@@ -3,7 +3,6 @@ id: 698
 title: 'My new book: Professional NoSQL (Wiley, 2011)'
 date: 2011-09-19T20:46:54+00:00
 author: tshanky
-layout: post
 guid: http://shanky.org/?p=698
 permalink: /2011/09/19/my-new-book-professional-nosql-wiley-2011/
 dsq_thread_id:

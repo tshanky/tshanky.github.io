@@ -3,7 +3,6 @@ id: 502
 title: 'Coast to Coast: New York to California'
 date: 2010-08-13T16:29:41+00:00
 author: tshanky
-layout: post
 guid: http://shanky.org/?p=502
 permalink: /2010/08/13/coast-to-coast-new-york-to-california/
 categories:

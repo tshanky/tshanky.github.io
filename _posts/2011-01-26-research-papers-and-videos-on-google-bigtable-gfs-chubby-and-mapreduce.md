@@ -3,7 +3,6 @@ id: 657
 title: Research Papers and Videos on Google Bigtable, GFS, Chubby and MapReduce
 date: 2011-01-26T20:42:00+00:00
 author: tshanky
-layout: post
 guid: http://shanky.org/?p=657
 permalink: /2011/01/26/research-papers-and-videos-on-google-bigtable-gfs-chubby-and-mapreduce/
 categories:

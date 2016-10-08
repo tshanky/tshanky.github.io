@@ -3,7 +3,6 @@ id: 353
 title: Installing and Setting up BlazeDS in JBoss AS 5
 date: 2009-08-21T16:26:40+00:00
 author: tshanky
-layout: post
 guid: http://shanky.org/?p=353
 permalink: /2009/08/21/installing-and-setting-up-blazeds-in-jboss-as-5/
 categories:

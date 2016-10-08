@@ -3,7 +3,6 @@ id: 728
 title: Scala syntax highlighting in gedit
 date: 2011-09-27T00:39:51+00:00
 author: tshanky
-layout: post
 guid: http://shanky.org/?p=728
 permalink: /2011/09/27/scala-syntax-highlighting-in-gedit/
 dsq_thread_id:

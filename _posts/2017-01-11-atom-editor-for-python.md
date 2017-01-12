@@ -1,7 +1,7 @@
 ---
 title: Atom editor for Python
 author: tshanky
-permalink: /2016/10/28/atom-editor-for-python/
+permalink: /2017/01/11/atom-editor-for-python/
 modified:
 excerpt: "Using the Atom editor for Python"
 tags: []
@@ -18,7 +18,7 @@ The package system is at the heart of Atom’s design. Atom itself has a very li
 Newer packages can be searched and installed via the "Install" tab in the "Settings View". Look at Figure 1, which shows the "Install" tab.
 
 <figure>
-	<img src="../images/install_tab_in_the_settings_view.png"/>
+	<img src="/images/install_tab_in_the_settings_view.png"/>
 	<figcaption>Atom Settings View Install Tab</figcaption>
 </figure>
 

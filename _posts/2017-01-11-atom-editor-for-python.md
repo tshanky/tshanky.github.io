@@ -19,7 +19,7 @@ Newer packages can be searched and installed via the "Install" tab in the "Setti
 
 <figure>
 	<img src="/images/install_tab_in_the_settings_view.png"/>
-	<figcaption>Atom Settings View Install Tab</figcaption>
+	<figcaption>Figure 1: Atom Settings View Install Tab</figcaption>
 </figure>
 
 >These searchable Atom packages are published to the official Atom registry at [https://atom.io/packages](https://atom.io/packages).
@@ -44,7 +44,7 @@ While installing the latest version of a package is desirable, you may need to i
 apm install <package_name>@<package_version>
 ```
 
-To view more information about a specific package use:
+To view more information about a specific package, use:
 
 ```
 apm view <package_name>
@@ -60,7 +60,7 @@ Linter is an Atom package that provides a unified and consistent api for all ato
 apm install linter
 ```
 
-Next piggyback on the Python packages to do the heavy lifting. Install flake8, the wrapper around PyFlakes, pycodestyle, and Mc Cabe script. *pip* is the most popular and widely used package manager for Python and using it is very easy. To install flake8 and flake-pep257, use pip as follows:
+Next, piggyback on the Python packages to do the heavy lifting. Install flake8, the wrapper around PyFlakes, pycodestyle, and Mc Cabe script. *pip* is the most popular and widely used package manager for Python and using it is very easy. To install flake8 and flake8-pep257, use pip as follows:
 
 ```
 pip install flake8
@@ -71,6 +71,7 @@ Now that flake8 is available on your system, install linter-flake8. The linter-f
 ```
 apm install linter-flake8
 ```
+
 ## Automating Style Corrections
 
 Linter with flake8's help surfaces style related errors and warnings but doesn't correct it for you. The python package autopep8 on the other hand autocorrects your errors. Install autopep8 via the command line as follows:
@@ -91,6 +92,6 @@ apm install atom-beautify
 Look at Figure 2, which illustrates the configuration options Python within atom-beautify settings.
 
 <figure>
-	<img src="../images/atom_beautify_configuration_options_for_pyton.png"/>
-	<figcaption>atom-beautify configuration options for Python</figcaption>
+	<img src="/images/atom_beautify_configuration_options_for_pyton.png"/>
+	<figcaption>Figure 2: atom-beautify configuration options for Python</figcaption>
 </figure>

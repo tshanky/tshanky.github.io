@@ -89,7 +89,7 @@ Within an editor or a development environment its very convenient if the auto co
 ```
 apm install atom-beautify
 ```
-Look at Figure 2, which illustrates the configuration options Python within atom-beautify settings.
+Look at Figure 2, which illustrates the configuration options for Python within atom-beautify settings.
 
 <figure>
 	<img src="/images/atom_beautify_configuration_options_for_pyton.png"/>

@@ -18,7 +18,7 @@ The package system is at the heart of Atom’s design. Atom itself has a very li
 Newer packages can be searched and installed via the "Install" tab in the "Settings View". Look at Figure 1, which shows the "Install" tab.
 
 <figure>
-	<img src="/images/install_tab_in_the_settings_view.png"/>
+	<img src="/assets/images/install_tab_in_the_settings_view.png"/>
 	<figcaption>Figure 1: Atom Settings View Install Tab</figcaption>
 </figure>
 
@@ -92,6 +92,6 @@ apm install atom-beautify
 Look at Figure 2, which illustrates the configuration options for Python within atom-beautify settings.
 
 <figure>
-	<img src="/images/atom_beautify_configuration_options_for_pyton.png"/>
+	<img src="/assets/images/atom_beautify_configuration_options_for_pyton.png"/>
 	<figcaption>Figure 2: atom-beautify configuration options for Python</figcaption>
 </figure>

@@ -9,8 +9,8 @@
 locale                   : "en"
 title                    : "Shashank Tiwari"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Shashank Tiwari"
+description              : "Shashank Tiwari's Personal Website http://www.shanky.org"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -89,18 +89,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "tshanky"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "tshanky"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "tshanky"
   vine             :
   weibo            :
   xing             :

@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Shashank Tiwari"
-  avatar           : "st.jpg"
+  avatar           : "/assets/images/st.jpg"
   bio              : "Entrepreneur, Technology Executive."
   location         : "Palo Alto, CA"
   email            :

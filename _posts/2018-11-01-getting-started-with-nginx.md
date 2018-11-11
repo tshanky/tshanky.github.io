@@ -10,7 +10,7 @@ Nginx, often written as NGINX or nginx, is a very versatile web server that can 
 
 ## Installing NGINX on macOS Mojave
 
-The easiest way to install nginx on macOS Mojave is by using [Homebrew](https://brew.sh/ "Homebrew"). If you have brew installed, update brew, and install NGINX as follows:
+The easiest way to install nginx on macOS Mojave is by using [Homebrew](https://brew.sh/ "Homebrew"){:target="_blank"}. If you have brew installed, update brew, and install NGINX as follows:
 
 ```
 brew update
@@ -23,7 +23,7 @@ Once installed, nginx can be started by simply invoke the `nginx` command.
 sudo nginx
 ```
 
-That's it! Open [http://localhost:8080](http://localhost:8080) in your favorite browser and you should see the Nginx welcome page.
+That's it! Open [http://localhost:8080](http://localhost:8080){:target="_blank"} in your favorite browser and you should see the Nginx welcome page.
 
 ## Configuring to Serve Static Content
 
@@ -39,7 +39,7 @@ Then, put a of piece of content in each of these directories. For example, creat
 
 Once you have your static content ready, its time to update the configuration to instruct nginx to serve content from these directories.
 
-If you installed nginx using [Homebrew](https://brew.sh/ "Homebrew"), your config file, `nginx.conf`, is at `/usr/local/etc/nginx/`. Open the config file and modify the `http` directive so that it looks like so:
+If you installed nginx using [Homebrew](https://brew.sh/ "Homebrew"){:target="_blank"}, your config file, `nginx.conf`, is at `/usr/local/etc/nginx/`. Open the config file and modify the `http` directive so that it looks like so:
 
 ```
 http {
@@ -66,7 +66,7 @@ http {
 
 Start the server using `sudo nginx` or reload the configuration for a running server using `sudo nginx -s reload`. Your static content is now ready to be served by nginx.
 
-Open your browser and simply point it to [http://localhost](http://localhost "index at localhost") to view the contents of `index.html`. Pointing to [http://localhost/images/an_image.png](http://localhost/images/an_image.png "images at localhost") will display your image.
+Open your browser and simply point it to [http://localhost](http://localhost "index at localhost"){:target="_blank"} to view the contents of `index.html`. Pointing to [http://localhost/images/an_image.png](http://localhost/images/an_image.png "images at localhost"){:target="_blank"} will display your image.
 
 ## Understanding nginx Configuration
 
@@ -74,7 +74,7 @@ Nginx consists of a number of powerful and feature rich modules. These modules a
 
 Nginx configuration has a notion of hierarchical directives and instructions. Each hierarchical level forms a context. The root context in nginx terminology is the *main* context. This context includes directives for essential elements like *events* and protocols, like *http*. It also includes configuration for *error_log*,  *worker* processes, *ssl_engine*, and for debugging. Some of these could be in inner nested contexts as well.
 
-The *main* context can, and mostly likely will, have inner contexts. *events* and *http* are typical inner contexts in web server configurations.
+The *main* context can, and most likely will, have inner contexts. *events* and *http* are typical inner contexts in web server configurations.
 
 Configuration directives are either **simple** directives or **block** directives. **simple** directives are key-value pairs written in a single line, separated by spaces, and terminated by a semi-colon (;). For such configuration, the *name* is the key and the configuration *parameter* is the value. An example of such a configuration is:
 
@@ -88,7 +88,7 @@ The `location` directive plays a special role for routing and directing requests
 
 Request URIs are matched to the longest and most specific pattern first and then matched to the next closest pattern and so on, until the only match is the shortest and catch all prefix, the forward slash(/). Regular expressions could be used in a `location` prefix allowing for definition of sophisticated patterns.
 
-You will benefit from familiarizing yourself with the various configuration directives for the [core module](https://nginx.org/en/docs/ngx_core_module.html "Nginx Core Module Configuration") and the [http module](http://nginx.org/en/docs/http/ngx_http_core_module.html "Nginx HTTP Core Module Configuration"). 
+You will benefit from familiarizing yourself with the various configuration directives for the [core module](https://nginx.org/en/docs/ngx_core_module.html "Nginx Core Module Configuration"){:target="_blank"} and the [http module](http://nginx.org/en/docs/http/ngx_http_core_module.html "Nginx HTTP Core Module Configuration"){:target="_blank"}. 
 
 ## Proxying Requests
 
@@ -134,7 +134,7 @@ We will explore the powerful features around buffering, caching, and load balanc
 
 ## Looking through the Logs
 
-By default, your nginx log files on your [Homebrew](https://brew.sh/ "Homebrew") installed nginx are at `/usr/local/var/log/nginx`. There are 2 log files in this directory: `access.log` and `error.log`. The names suggest what they contain. Information about the remote user, remote address, and request time along with the request URI, referrer, and user agent are logged in `access.log`. All errors are logged in `error.log`. Fatal emergencies leading to server crash are logged as `emerg` in the error log.
+By default, your nginx log files on your [Homebrew](https://brew.sh/ "Homebrew"){:target="_blank"} installed nginx are at `/usr/local/var/log/nginx`. There are 2 log files in this directory: `access.log` and `error.log`. The names suggest what they contain. Information about the remote user, remote address, and request time along with the request URI, referrer, and user agent are logged in `access.log`. All errors are logged in `error.log`. Fatal emergencies leading to server crash are logged as `emerg` in the error log.
 
 > You can change the path, logging level, and format of the log files by specifying it in `nginx.conf`. For example, you could log everything that is a warning and more severe in error.log at `logs/error.log` using a configuration as follows: `error_log logs/error.log warn;`
 

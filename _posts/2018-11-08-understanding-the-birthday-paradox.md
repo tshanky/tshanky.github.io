@@ -10,9 +10,9 @@ tags: [mathematics, probability]
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
-By definition, a paradox is a seemingly absurd statement or proposition that when investigated or explained may prove to be well founded and true. 
+By definition, a paradox is a seemingly absurd statement or proposition that when investigated or explained may prove to be well-founded and true. 
 
-Its hard to believe that there is more than **50% chance** that at least 2 people in a group of randomly chosen **23** people have the same birthday. Further, if the group had 75 people then its almost certain that 2 of them were born on the same day of the year. The number 23 appears too small for such a high probability that at least 2 people have the same birthday, and hence the paradox. In this post we will reason through the birthday problem and learn and understand the mathematics behind the chance of sharing birthdays.
+It's hard to believe that there is more than **50% chance** that at least 2 people in a group of randomly chosen **23** people have the same birthday. Further, if the group had 75 people then its almost certain that 2 of them were born on the same day of the year. The number 23 appears too small for such a high probability that at least 2 people have the same birthday, and hence the paradox. In this post we will reason through the birthday problem and learn and understand the mathematics behind the chance of sharing birthdays.
 
 ## What are the Chances at least 2 people out of 23 People in a Room Have the Same Birthday?
 

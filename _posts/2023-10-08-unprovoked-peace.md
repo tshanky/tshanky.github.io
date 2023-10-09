@@ -10,25 +10,26 @@ tags: [conflict, peace]
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
-# unprovoked peace
+> unprovoked peace
 
-war on terror
-is war and terror, again
-ravaged, torn, separated
-stretched with anger, hate, and pain
 
-with blurred stories
-provoked by past, of narratives, tales
-where we are the heros
-whenever, whoever is us
+war on terror  
+is war and terror, again  
+ravaged, torn, separated  
+stretched with anger, hate, and pain  
 
-revenge with anyone, someone
-not in our stories, not of times
-when sufferings were sewn,
-with strangers, friends, and even our own
 
-time moving, like flowing water
-wash us, agony of difference cease
-lead us to
-unprovoked peace
+with blurred stories  
+provoked by past, of narratives, tales  
+where we are the heros  
+whenever, whoever is us  
 
+revenge with anyone, someone  
+not in our stories, not of times  
+when sufferings were sewn,  
+with strangers, friends, and even our own  
+
+time moving, like flowing water  
+wash us, agony of difference cease  
+lead us to  
+unprovoked peace  
